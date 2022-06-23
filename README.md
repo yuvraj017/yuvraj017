@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @yuvraj017, a traveler who explores CODE.
 - 👀 I’m interested in Cyber Security + Programming.
 - 🐱‍👤 I’m currently doing CTF challenges and learning Java.
-- 🤝 I’m looking to collaborate on Tech Sessions based on Cyber Security + Coding.
 - 💌 Say Hii 👋 on Twitter - @Yuvraj_017
